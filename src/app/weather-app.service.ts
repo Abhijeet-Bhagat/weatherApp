@@ -10,7 +10,7 @@ export class WeatherAppService {
 
   constructor(private http: HttpClient) { 
 
-   this.apiUrl = "http://localhost:8080/weather";
+   this.apiUrl = "https://weather-app-backend-production-71dd.up.railway.app/weather";
 
     
   }
