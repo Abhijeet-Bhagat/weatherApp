@@ -1,3 +1,5 @@
+Hosted at : https://weather-app-ui-77c2f.web.app
+
 # WeatherApp
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 16.2.6.
